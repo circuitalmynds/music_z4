@@ -1,5 +1,13 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "z865fk3j_kg",
+            "name": "Cienfuegos Tiene Su Guaguanc\u00f3-z865fk3j_kg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/z4/videos/Cienfuegos Tiene Su Guaguanc\u00f3-z865fk3j_kg.mp4",
+            "size": 7.03583,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Cienfuegos Tiene Su Guaguanc\u00f3-z865fk3j_kg.mp4?raw=true"
+        }
+    ],
+    "total_size": 7.03583
 }
