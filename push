@@ -10,7 +10,7 @@ repo=music_z4
 echo *__pycache__ > .gitignore
 find ./videos* -size +95M | cat >> .gitignore
 if $allow_push; then
-    python3 -m getdata
+
 	python3 -m main set allow-push false
 
 	git add .

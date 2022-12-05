@@ -7,8 +7,6 @@ jsonconfig = dict(
 )
 path = Path(__file__).parent
 giturl = "https://github.com/circuitalmynds/music_z4"
-repo_id = "z4"
-repo = f"music_z4"
 folder_content = path.joinpath("videos")
 info = path.joinpath("info.json")
 
