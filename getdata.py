@@ -3,7 +3,7 @@ from json import load, dumps
 jsonconfig = dict(
     indent=4,
     sort_keys=True,
-    ensure_ascii=True
+    ensure_ascii=False
 )
 path = Path(__file__).parent
 giturl = "https://github.com/circuitalmynds/music_z4"
