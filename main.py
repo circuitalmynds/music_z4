@@ -52,7 +52,8 @@ class Env:
 
 if __name__ == "__main__":
     if len(args) == 1:
-        if args[0] == "push":
+        if args[0] == "update":
+            Env.set("allow-push", "true")
             system("bash push")
     if len(args) == 2:
         if args[0] == "get":
