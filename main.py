@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from sys import argv
 from dotenv import load_dotenv
 from os import environ, system
@@ -13,23 +15,23 @@ def getdate():
     t = date[3].split(":")
     today = dict(
         day=int(date[2]), month=date[1], year=int(date[4]),
-        hours=int(t[0]), minutes=int(t[1]), seconds=int(t[2])        
+        hours=int(t[0]), minutes=int(t[1]), seconds=int(t[2])
     )
     for i in ("hours", "minutes", "seconds"):
         s = str(today[i])
         if len(s) == 1:
             today[i] = f"0{s}"
-    return "{day}-{month}-{year}, {hours}:{minutes}:{seconds}".format(**today)    
+    return "{day}-{month}-{year}, {hours}:{minutes}:{seconds}".format(**today)
 
 
 class Env:
-    file = path.joinpath(".env")   
+    file = path.joinpath(".env")
 
     @classmethod
     def get(cls, key):
         cls.update()
         return environ.get(key)
-        
+
     @classmethod
     def set(cls, key, value):
         data = dict()
@@ -44,7 +46,7 @@ class Env:
             f"{k}={v}" for k, v in data.items()
         ]))
         cls.update()
-        
+
     @classmethod
     def update(cls):
         load_dotenv(cls.file)

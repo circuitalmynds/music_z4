@@ -2,12 +2,292 @@
     "available_space": true,
     "content": [
         {
+            "id": "P7jeqAyYZME",
+            "name": "Marshall Hain - Dancing In The City • TopPop [P7jeqAyYZME].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Marshall Hain - Dancing In The City • TopPop [P7jeqAyYZME].mp4",
+            "size": 14.864968999999999,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Marshall Hain - Dancing In The City • TopPop [P7jeqAyYZME].mp4?raw=true"
+        },
+        {
+            "id": "Z5eqJGuxS3U",
+            "name": "Die Sanguiniker, Op. 27 [Z5eqJGuxS3U].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Die Sanguiniker, Op. 27 [Z5eqJGuxS3U].mp4",
+            "size": 29.188359,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Die Sanguiniker, Op. 27 [Z5eqJGuxS3U].mp4?raw=true"
+        },
+        {
+            "id": "8gGHSIrPSOM",
+            "name": "World's Famous Supreme Team - Hey DJ  (1984) [8gGHSIrPSOM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/World's Famous Supreme Team - Hey DJ  (1984) [8gGHSIrPSOM].mp4",
+            "size": 11.781113999999999,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/World's Famous Supreme Team - Hey DJ  (1984) [8gGHSIrPSOM].mp4?raw=true"
+        },
+        {
+            "id": "eX7I-dbWy_A",
+            "name": "Finale [eX7I-dbWy_A].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Finale [eX7I-dbWy_A].mp4",
+            "size": 4.3604769999999995,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Finale [eX7I-dbWy_A].mp4?raw=true"
+        },
+        {
+            "id": "P5YNSNC0Ijw",
+            "name": "The Sugarcubes - Walkabout [P5YNSNC0Ijw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/The Sugarcubes - Walkabout [P5YNSNC0Ijw].mp4",
+            "size": 10.550913999999999,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/The Sugarcubes - Walkabout [P5YNSNC0Ijw].mp4?raw=true"
+        },
+        {
+            "id": "4-LwbiQA-g8",
+            "name": "J.S. Bach： Concertos for Recorder [4-LwbiQA-g8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/J.S. Bach： Concertos for Recorder [4-LwbiQA-g8].mp4",
+            "size": 82.260365,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/J.S. Bach： Concertos for Recorder [4-LwbiQA-g8].mp4?raw=true"
+        },
+        {
+            "id": "LU8uTl6QX_E",
+            "name": "Barrington Levi - ＂Shine Eye Gal＂ Full Album Complete 1979 Reggae [LU8uTl6QX_E].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Barrington Levi - ＂Shine Eye Gal＂ Full Album Complete 1979 Reggae [LU8uTl6QX_E].mp4",
+            "size": 57.223577999999996,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Barrington Levi - ＂Shine Eye Gal＂ Full Album Complete 1979 Reggae [LU8uTl6QX_E].mp4?raw=true"
+        },
+        {
+            "id": "XnBrEn3rkyI",
+            "name": "Scritti Politti - Hypnotize (Official Video) [XnBrEn3rkyI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Scritti Politti - Hypnotize (Official Video) [XnBrEn3rkyI].mp4",
+            "size": 34.541007,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Scritti Politti - Hypnotize (Official Video) [XnBrEn3rkyI].mp4?raw=true"
+        },
+        {
+            "id": "G5vtKazI8Fg",
+            "name": "Torch Song - Wish Thing (1984) [Full Album] Synthpop [G5vtKazI8Fg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Torch Song - Wish Thing (1984) [Full Album] Synthpop [G5vtKazI8Fg].mp4",
+            "size": 71.81654499999999,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Torch Song - Wish Thing (1984) [Full Album] Synthpop [G5vtKazI8Fg].mp4?raw=true"
+        },
+        {
+            "id": "KZBkIJoRZPA",
+            "name": "Souvenir de Madrid, Op. 304 (Version for Orchestra) [KZBkIJoRZPA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Souvenir de Madrid, Op. 304 (Version for Orchestra) [KZBkIJoRZPA].mp4",
+            "size": 9.839754,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Souvenir de Madrid, Op. 304 (Version for Orchestra) [KZBkIJoRZPA].mp4?raw=true"
+        },
+        {
+            "id": "Uizkj0dUhcs",
+            "name": "Martha Argerich ⧸ London Sinfonietta ： Haydn concerto in D-major - Milan 1980 live [Uizkj0dUhcs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Martha Argerich ⧸ London Sinfonietta ： Haydn concerto in D-major - Milan 1980 live [Uizkj0dUhcs].mp4",
+            "size": 50.064789,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Martha Argerich ⧸ London Sinfonietta ： Haydn concerto in D-major - Milan 1980 live [Uizkj0dUhcs].mp4?raw=true"
+        },
+        {
+            "id": "0P6jYLXhnmg",
+            "name": "Lio - Amoureux Solitaires • TopPop [0P6jYLXhnmg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Lio - Amoureux Solitaires • TopPop [0P6jYLXhnmg].mp4",
+            "size": 9.386237999999999,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Lio - Amoureux Solitaires • TopPop [0P6jYLXhnmg].mp4?raw=true"
+        },
+        {
+            "id": "iQnXBgNzwNE",
+            "name": "No Puedo Ser Feliz (Remastered) [iQnXBgNzwNE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/No Puedo Ser Feliz (Remastered) [iQnXBgNzwNE].mp4",
+            "size": 5.630026,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/No Puedo Ser Feliz (Remastered) [iQnXBgNzwNE].mp4?raw=true"
+        },
+        {
+            "id": "2MAI2j3MpfI",
+            "name": "Rimsky-Korsakov - The Legend of the Invisible City of Kitezh - Leningrad ⧸ Mravinsky [2MAI2j3MpfI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Rimsky-Korsakov - The Legend of the Invisible City of Kitezh - Leningrad ⧸ Mravinsky [2MAI2j3MpfI].mp4",
+            "size": 35.966809999999995,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Rimsky-Korsakov - The Legend of the Invisible City of Kitezh - Leningrad ⧸ Mravinsky [2MAI2j3MpfI].mp4?raw=true"
+        },
+        {
+            "id": "6Da5Ri-P_GU",
+            "name": "Jamaican Woman [6Da5Ri-P_GU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Jamaican Woman [6Da5Ri-P_GU].mp4",
+            "size": 13.577207999999999,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Jamaican Woman [6Da5Ri-P_GU].mp4?raw=true"
+        },
+        {
+            "id": "LrTyV6eo1Gs",
+            "name": "Alton Ellis - Soul Train Is Coming FULL ALBUM [LrTyV6eo1Gs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Alton Ellis - Soul Train Is Coming FULL ALBUM [LrTyV6eo1Gs].mp4",
+            "size": 67.690052,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Alton Ellis - Soul Train Is Coming FULL ALBUM [LrTyV6eo1Gs].mp4?raw=true"
+        },
+        {
+            "id": "t6qhUnSoz2g",
+            "name": "Liszt： Fantasy and Fugue on ＂Ad nos, ad salutarem undam＂, S. 259 - 3. Fuga [t6qhUnSoz2g].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Liszt： Fantasy and Fugue on ＂Ad nos, ad salutarem undam＂, S. 259 - 3. Fuga [t6qhUnSoz2g].mp4",
+            "size": 21.110712,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Liszt： Fantasy and Fugue on ＂Ad nos, ad salutarem undam＂, S. 259 - 3. Fuga [t6qhUnSoz2g].mp4?raw=true"
+        },
+        {
+            "id": "GV_UJbQsq68",
+            "name": "Hong Kong Syndikat - Too much (Azzurro 1986) [GV_UJbQsq68].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Hong Kong Syndikat - Too much (Azzurro 1986) [GV_UJbQsq68].mp4",
+            "size": 49.939937,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Hong Kong Syndikat - Too much (Azzurro 1986) [GV_UJbQsq68].mp4?raw=true"
+        },
+        {
+            "id": "wFhO9hl4h9k",
+            "name": "K.I.D. - Don't stop - 1981 [wFhO9hl4h9k].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/K.I.D. - Don't stop - 1981 [wFhO9hl4h9k].mp4",
+            "size": 9.567993999999999,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/K.I.D. - Don't stop - 1981 [wFhO9hl4h9k].mp4?raw=true"
+        },
+        {
+            "id": "-WU5M8u-P0Q",
+            "name": "Liszt： Lob der Tränen, S.557 (after Schubert, D.711) [-WU5M8u-P0Q].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Liszt： Lob der Tränen, S.557 (after Schubert, D.711) [-WU5M8u-P0Q].mp4",
+            "size": 12.684232,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Liszt： Lob der Tränen, S.557 (after Schubert, D.711) [-WU5M8u-P0Q].mp4?raw=true"
+        },
+        {
+            "id": "kzh5APxAAHA",
+            "name": "Behr - Polka WR： Polka W. R. [kzh5APxAAHA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Behr - Polka WR： Polka W. R. [kzh5APxAAHA].mp4",
+            "size": 7.9684289999999995,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Behr - Polka WR： Polka W. R. [kzh5APxAAHA].mp4?raw=true"
+        },
+        {
+            "id": "ILsmVP0ZtrU",
+            "name": "Al Bowlly Ray Noble - Makin' Wickey Wackey in Waikiki 1931 Hawaii [ILsmVP0ZtrU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Al Bowlly Ray Noble - Makin' Wickey Wackey in Waikiki 1931 Hawaii [ILsmVP0ZtrU].mp4",
+            "size": 5.310899,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Al Bowlly Ray Noble - Makin' Wickey Wackey in Waikiki 1931 Hawaii [ILsmVP0ZtrU].mp4?raw=true"
+        },
+        {
+            "id": "tWoFaPwbzqE",
+            "name": "Brahms Piano Concerto No. 2 in B-flat Major, Op. 83 (Zimerman) [tWoFaPwbzqE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Brahms Piano Concerto No. 2 in B-flat Major, Op. 83 (Zimerman) [tWoFaPwbzqE].mp4",
+            "size": 35.137077999999995,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Brahms Piano Concerto No. 2 in B-flat Major, Op. 83 (Zimerman) [tWoFaPwbzqE].mp4?raw=true"
+        },
+        {
+            "id": "okQRnHvw3is",
+            "name": "Offenbach - Infernal Galop [okQRnHvw3is].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Offenbach - Infernal Galop [okQRnHvw3is].mp4",
+            "size": 5.712968,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Offenbach - Infernal Galop [okQRnHvw3is].mp4?raw=true"
+        },
+        {
+            "id": "HzJt0NWh64Q",
+            "name": "Czerny    Divertissement de Concert op 204 [HzJt0NWh64Q].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Czerny    Divertissement de Concert op 204 [HzJt0NWh64Q].mp4",
+            "size": 44.089903,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Czerny    Divertissement de Concert op 204 [HzJt0NWh64Q].mp4?raw=true"
+        },
+        {
+            "id": "5dZlr5KLdYY",
+            "name": "Gabriel Fauré ： Masques et Bergamasques, music for the comedy Op. 112 (1919) [5dZlr5KLdYY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Gabriel Fauré ： Masques et Bergamasques, music for the comedy Op. 112 (1919) [5dZlr5KLdYY].mp4",
+            "size": 43.333255,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Gabriel Fauré ： Masques et Bergamasques, music for the comedy Op. 112 (1919) [5dZlr5KLdYY].mp4?raw=true"
+        },
+        {
             "id": "z865fk3j_kg",
             "name": "Cienfuegos Tiene Su Guaguancó-z865fk3j_kg.mp4",
             "path": "/home/alanmatzumiya/Videos/container/z4/videos/Cienfuegos Tiene Su Guaguancó-z865fk3j_kg.mp4",
             "size": 7.03583,
             "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Cienfuegos Tiene Su Guaguancó-z865fk3j_kg.mp4?raw=true"
+        },
+        {
+            "id": "ChNqn6_EP2Y",
+            "name": "Siboney (Remastered) [ChNqn6_EP2Y].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Siboney (Remastered) [ChNqn6_EP2Y].mp4",
+            "size": 8.543382,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Siboney (Remastered) [ChNqn6_EP2Y].mp4?raw=true"
+        },
+        {
+            "id": "1-46cxUD92M",
+            "name": "Paganini： Violin Concerto No. 4 in D Minor, MS. 60 - III. Rondo galante. Andantino gaio [1-46cxUD92M].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Paganini： Violin Concerto No. 4 in D Minor, MS. 60 - III. Rondo galante. Andantino gaio [1-46cxUD92M].mp4",
+            "size": 15.923010999999999,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Paganini： Violin Concerto No. 4 in D Minor, MS. 60 - III. Rondo galante. Andantino gaio [1-46cxUD92M].mp4?raw=true"
+        },
+        {
+            "id": "phBThlPTBEg",
+            "name": "Dmitri Shostakovich - Waltz No. 2 [phBThlPTBEg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Dmitri Shostakovich - Waltz No. 2 [phBThlPTBEg].mp4",
+            "size": 3.465238,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Dmitri Shostakovich - Waltz No. 2 [phBThlPTBEg].mp4?raw=true"
+        },
+        {
+            "id": "jUKbyIH6ty8",
+            "name": "I'm Just A Jitterbug [jUKbyIH6ty8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/I'm Just A Jitterbug [jUKbyIH6ty8].mp4",
+            "size": 9.477056,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/I'm Just A Jitterbug [jUKbyIH6ty8].mp4?raw=true"
+        },
+        {
+            "id": "UKkRiBRo_Ss",
+            "name": "Liszt, Verdi： Il Trovatore： Miserere, Concert Paraphrase S.433 [UKkRiBRo_Ss].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Liszt, Verdi： Il Trovatore： Miserere, Concert Paraphrase S.433 [UKkRiBRo_Ss].mp4",
+            "size": 18.443835,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Liszt, Verdi： Il Trovatore： Miserere, Concert Paraphrase S.433 [UKkRiBRo_Ss].mp4?raw=true"
+        },
+        {
+            "id": "gzwfVKPJkUE",
+            "name": "Franzl Lang & Kurt Grosskurth - Lach-Jodler 1962 [gzwfVKPJkUE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Franzl Lang & Kurt Grosskurth - Lach-Jodler 1962 [gzwfVKPJkUE].mp4",
+            "size": 8.215285999999999,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Franzl Lang & Kurt Grosskurth - Lach-Jodler 1962 [gzwfVKPJkUE].mp4?raw=true"
+        },
+        {
+            "id": "tMS2PPK8INM",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act III - No. 20b, Dove sono i bei momenti [tMS2PPK8INM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Mozart： Le nozze di Figaro, K. 492, Act III - No. 20b, Dove sono i bei momenti [tMS2PPK8INM].mp4",
+            "size": 12.227037,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act III - No. 20b, Dove sono i bei momenti [tMS2PPK8INM].mp4?raw=true"
+        },
+        {
+            "id": "E8_ipXkGEf0",
+            "name": "Liszt： Die Legende von der Heiligen Elisabeth ⧸ 5. Elisabeth - Es beruhigt sich das Toben [E8_ipXkGEf0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Liszt： Die Legende von der Heiligen Elisabeth ⧸ 5. Elisabeth - Es beruhigt sich das Toben [E8_ipXkGEf0].mp4",
+            "size": 11.270634999999999,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Liszt： Die Legende von der Heiligen Elisabeth ⧸ 5. Elisabeth - Es beruhigt sich das Toben [E8_ipXkGEf0].mp4?raw=true"
+        },
+        {
+            "id": "MDvWcORyp58",
+            "name": "ALONE [MDvWcORyp58].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/ALONE [MDvWcORyp58].mp4",
+            "size": 16.286216,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/ALONE [MDvWcORyp58].mp4?raw=true"
+        },
+        {
+            "id": "kW9eWBhbNW8",
+            "name": "Liszt： Missa solemnis zur Einweihung der Basilika in Gran - 1. Kyrie [kW9eWBhbNW8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Liszt： Missa solemnis zur Einweihung der Basilika in Gran - 1. Kyrie [kW9eWBhbNW8].mp4",
+            "size": 17.521525,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Liszt： Missa solemnis zur Einweihung der Basilika in Gran - 1. Kyrie [kW9eWBhbNW8].mp4?raw=true"
+        },
+        {
+            "id": "eWcw2FwBdrg",
+            "name": "Habibi Ala L'dunia [eWcw2FwBdrg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Habibi Ala L'dunia [eWcw2FwBdrg].mp4",
+            "size": 26.039595,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Habibi Ala L'dunia [eWcw2FwBdrg].mp4?raw=true"
+        },
+        {
+            "id": "hxsYrfKf_pc",
+            "name": "Cabaret Voltaire： 'Do The Mussolini (Headkick)' [hxsYrfKf_pc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Cabaret Voltaire： 'Do The Mussolini (Headkick)' [hxsYrfKf_pc].mp4",
+            "size": 12.198183,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Cabaret Voltaire： 'Do The Mussolini (Headkick)' [hxsYrfKf_pc].mp4?raw=true"
+        },
+        {
+            "id": "p2AiQgnylrE",
+            "name": "It's Bad For Me 1933 - Cole Porter Songs - Al Bowlly [p2AiQgnylrE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/It's Bad For Me 1933 - Cole Porter Songs - Al Bowlly [p2AiQgnylrE].mp4",
+            "size": 10.055335,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/It's Bad For Me 1933 - Cole Porter Songs - Al Bowlly [p2AiQgnylrE].mp4?raw=true"
+        },
+        {
+            "id": "3kTi3hb5VZY",
+            "name": "Dem Mouth [3kTi3hb5VZY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Dem Mouth [3kTi3hb5VZY].mp4",
+            "size": 12.752557999999999,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Dem Mouth [3kTi3hb5VZY].mp4?raw=true"
         }
     ],
-    "total_size": 7.03583
+    "total_size": 933.0523339999997
 }
