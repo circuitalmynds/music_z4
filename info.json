@@ -37,6 +37,13 @@
             "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/The Sugarcubes - Walkabout [P5YNSNC0Ijw].mp4?raw=true"
         },
         {
+            "id": "KLEK6V2LjXc",
+            "name": "Early Bird [KLEK6V2LjXc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z4/videos/Early Bird [KLEK6V2LjXc].mp4",
+            "size": 12.346668999999999,
+            "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Early Bird [KLEK6V2LjXc].mp4?raw=true"
+        },
+        {
             "id": "4-LwbiQA-g8",
             "name": "J.S. Bach： Concertos for Recorder [4-LwbiQA-g8].mp4",
             "path": "/home/alanmatzumiya/Videos/container/z4/videos/J.S. Bach： Concertos for Recorder [4-LwbiQA-g8].mp4",
@@ -289,5 +296,5 @@
             "url": "https://github.com/circuitalmynds/music_z4/blob/main/videos/Dem Mouth [3kTi3hb5VZY].mp4?raw=true"
         }
     ],
-    "total_size": 933.0523339999997
+    "total_size": 945.3990029999998
 }
