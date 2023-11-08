@@ -22,7 +22,7 @@ def save_info(data):
 
 
 def getfiles():
-    urlfile, totalsize, content = f"{giturl}/blob/main/videos", 0.0, []
+    urlfile, totalsize, content = f"{giturl}/raw/main/videos", 0.0, []
     files = list(
         fi for fi in videos.iterdir()
         if fi.suffix == ".mp4"
@@ -36,7 +36,7 @@ def getfiles():
             id=fileid,
             size=size,
             path=str(file),
-            url=f"{urlfile}/{filename}?raw=true"
+            url=f"{urlfile}/{filename}"
         ))
         totalsize += size
     return dict(
