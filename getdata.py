@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+from os import system as sh
 from pathlib import Path
 from json import load, dumps
 jsonconfig = dict(
@@ -23,6 +24,14 @@ def save_info(data):
 
 def getfiles():
     urlfile, totalsize, content = f"{giturl}/raw/main/videos", 0.0, []
+    sh(
+        f"cd {str(path)} && find ./videos* -iname '*.mp4' -size -95M | cat > files.txt"
+    )
+    listfiles = []
+    raw = "".join([giturl.replace("github.com", "raw.githubusercontent.com"), "/main/videos"])
+    for fn in path.joinpath("files.txt").open().readlines():
+        listfiles.append(fn.strip().replace("./videos", raw))
+    path.joinpath("files.txt").open("w").write("\n".join(listfiles))
     files = list(
         fi for fi in videos.iterdir()
         if fi.suffix == ".mp4"
